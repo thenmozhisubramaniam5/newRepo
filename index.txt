@@ -1,8 +1,8 @@
 new file
 new line added
 check
-<<<<<<< HEAD
+
 change made in main remote repo
-=======
+
 change made in thenmozhi branch
->>>>>>> thenmozhi
+
