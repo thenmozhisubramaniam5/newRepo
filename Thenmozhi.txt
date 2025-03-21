@@ -1,1 +1,2 @@
-Config information
+Config informationgit status
+add second line
